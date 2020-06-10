@@ -3,7 +3,7 @@ using namespace std;
 #define ll long long
 int main()
 {
-    int t, x;
+	int t, x;
 	cin>>t;
 	while(t--)
 	{
