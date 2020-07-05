@@ -1,1 +1,1 @@
-# C-CC-
+# C++ Competetive program practiced
