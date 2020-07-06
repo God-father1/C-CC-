@@ -21,7 +21,7 @@ int co=0;
         
         int sum = 0;
 
-        for (int j = 0; j < length; j++)
+        for (int j = 0;j < length; j++)
 
     
             if (((i >> j) & 1))
